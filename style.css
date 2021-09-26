@@ -42,10 +42,6 @@ body {
   text-decoration: underline;
 }
 
-.popup__question {
-  font-size: 0.8em;
-}
-
 .popup__animal {
   color: #fff;
 }
