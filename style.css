@@ -13,7 +13,7 @@ body {
   border-radius: 20px;
   box-shadow: 5px 5px 5px 0 #0008;
   color: #6ff;
-  font: 20px 'Arial';
+  font: 30px 'Arial';
   padding: 30px;
   user-select: none;
 }
@@ -24,7 +24,7 @@ body {
 
 .popup__meta_dialog {
   display: grid;
-  grid-gap: 20px;
+  grid-gap: 1em;
   justify-items: center;
 }
 
